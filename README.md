@@ -1,2 +1,0 @@
-# Pristine
-sample test project
